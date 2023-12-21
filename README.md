@@ -11,10 +11,7 @@ Este projeto consiste em desenvolver um aplicativo web para análise exploratór
 
 ## Como Executar
 
-1. Clone este repositório.
-2. Configure um ambiente virtual Python e instale as dependências listadas no arquivo `requirements.txt`.
-3. Baixe o arquivo de dados (CSV) contendo os anúncios de vendas de carros e coloque-o no diretório do projeto.
-4. Execute o aplicativo com o comando `streamlit run app.py`.
+https://sprint-4-ferramentas-de-desenvolvimento.onrender.com/
 
 ## Conjunto de Dados
 
